@@ -109,7 +109,7 @@ op
 ![image](https://github.com/Evangelin-Ruth/ODD2023---Datascience---Ex-02/assets/94219798/9681119d-3cda-4a00-9e43-d469bb268a8c)
 ![image](https://github.com/Evangelin-Ruth/ODD2023---Datascience---Ex-02/assets/94219798/6a7e8f88-7e78-4d1c-b90d-4aaa958ed8c5)
 ![image](https://github.com/Evangelin-Ruth/ODD2023---Datascience---Ex-02/assets/94219798/8c854777-1675-4611-8b14-8451fd5e7069)
-![Uploading image.png…]()
+![image](https://github.com/Evangelin-Ruth/ODD2023---Datascience---Ex-02/assets/94219798/c3ff5db3-c684-4e78-ae2d-3e3bade566b6)
 
 
 
