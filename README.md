@@ -108,13 +108,13 @@ op
 ## OUTPUT:
 ![image](https://github.com/Evangelin-Ruth/ODD2023---Datascience---Ex-02/assets/94219798/9681119d-3cda-4a00-9e43-d469bb268a8c)
 ![image](https://github.com/Evangelin-Ruth/ODD2023---Datascience---Ex-02/assets/94219798/6a7e8f88-7e78-4d1c-b90d-4aaa958ed8c5)
-![image](https://github.com/Evangelin-Ruth/ODD2023---Datascience---Ex-02/assets/94219798/71036c30-b07b-45c2-9807-46552c1d4ec0)
-![image](https://github.com/Evangelin-Ruth/ODD2023---Datascience---Ex-02/assets/94219798/53ba2ec4-739c-4b71-9194-24b246412d36)
-![image](https://github.com/Evangelin-Ruth/ODD2023---Datascience---Ex-02/assets/94219798/c2337d7c-ba9f-40ae-8b4b-93ddea1155cd)
-![image](https://github.com/Evangelin-Ruth/ODD2023---Datascience---Ex-02/assets/94219798/f9d0accb-1648-4560-92c7-7577be99baa5)
-![image](https://github.com/Evangelin-Ruth/ODD2023---Datascience---Ex-02/assets/94219798/f370fe9e-9d95-49db-9406-23571a600072)
-![image](https://github.com/Evangelin-Ruth/ODD2023---Datascience---Ex-02/assets/94219798/00e9140a-e9cf-45b8-8725-87fec60d8172)
-![image](https://github.com/Evangelin-Ruth/ODD2023---Datascience---Ex-02/assets/94219798/f9f8556f-35b2-4240-8d9f-0d92828517d1)
+![image](https://github.com/Evangelin-Ruth/ODD2023---Datascience---Ex-02/assets/94219798/8c854777-1675-4611-8b14-8451fd5e7069)
+![image](https://github.com/Evangelin-Ruth/ODD2023---Datascience---Ex-02/assets/94219798/ce24d064-c5a6-4c5a-8f91-6d30fff6ec13)
+![image](https://github.com/Evangelin-Ruth/ODD2023---Datascience---Ex-02/assets/94219798/dc87d492-7e5f-43ec-8725-196ee12ce7f2)
+
+
+
+
 
 ## RESULT:
 Thus, the given data is read,remove outliers and save a new dataframe was created and executed successfully.
