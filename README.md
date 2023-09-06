@@ -108,6 +108,9 @@ op
 ## OUTPUT:
 ![image](https://github.com/Evangelin-Ruth/ODD2023---Datascience---Ex-02/assets/94219798/9681119d-3cda-4a00-9e43-d469bb268a8c)
 ![image](https://github.com/Evangelin-Ruth/ODD2023---Datascience---Ex-02/assets/94219798/6a7e8f88-7e78-4d1c-b90d-4aaa958ed8c5)
+
+
+
 ![image](https://github.com/Evangelin-Ruth/ODD2023---Datascience---Ex-02/assets/94219798/8c854777-1675-4611-8b14-8451fd5e7069)
 ![image](https://github.com/Evangelin-Ruth/ODD2023---Datascience---Ex-02/assets/94219798/ab7611c0-f890-4642-a95a-39d637631fc4)
 
