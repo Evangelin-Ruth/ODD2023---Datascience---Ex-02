@@ -112,6 +112,9 @@ op
 
 
 ![image](https://github.com/Evangelin-Ruth/ODD2023---Datascience---Ex-02/assets/94219798/8c854777-1675-4611-8b14-8451fd5e7069)
+
+
+
 ![image](https://github.com/Evangelin-Ruth/ODD2023---Datascience---Ex-02/assets/94219798/ab7611c0-f890-4642-a95a-39d637631fc4)
 
 
